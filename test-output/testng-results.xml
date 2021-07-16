@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="590" started-at="2021-06-15T18:48:19 IST" finished-at="2021-06-15T18:48:19 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="590" started-at="2021-06-15T18:48:19 IST" finished-at="2021-06-15T18:48:19 IST">
+      <class name="AutomationPractise2.SeleniumTestCase">
+        <test-method status="PASS" signature="Web1()[pri:0, instance:AutomationPractise2.SeleniumTestCase@27808f31]" name="Web1" duration-ms="75" started-at="2021-06-15T18:48:19 IST" finished-at="2021-06-15T18:48:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Web1 -->
+        <test-method status="PASS" signature="Web2()[pri:0, instance:AutomationPractise2.SeleniumTestCase@27808f31]" name="Web2" duration-ms="7" started-at="2021-06-15T18:48:19 IST" finished-at="2021-06-15T18:48:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Web2 -->
+      </class> <!-- AutomationPractise2.SeleniumTestCase -->
+      <class name="AutomationPractise2.RestApiTestCase">
+        <test-method status="PASS" signature="API1()[pri:0, instance:AutomationPractise2.RestApiTestCase@7a9273a8]" name="API1" duration-ms="5" started-at="2021-06-15T18:48:19 IST" finished-at="2021-06-15T18:48:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- API1 -->
+        <test-method status="PASS" signature="API2()[pri:0, instance:AutomationPractise2.RestApiTestCase@7a9273a8]" name="API2" duration-ms="8" started-at="2021-06-15T18:48:19 IST" finished-at="2021-06-15T18:48:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- API2 -->
+      </class> <!-- AutomationPractise2.RestApiTestCase -->
+      <class name="AutomationPractise2.AppiumTestCase">
+        <test-method status="PASS" signature="Mobile1()[pri:0, instance:AutomationPractise2.AppiumTestCase@23d2a7e8]" name="Mobile1" duration-ms="4" started-at="2021-06-15T18:48:19 IST" finished-at="2021-06-15T18:48:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobile1 -->
+        <test-method status="PASS" signature="Mobile2()[pri:0, instance:AutomationPractise2.AppiumTestCase@23d2a7e8]" name="Mobile2" duration-ms="4" started-at="2021-06-15T18:48:19 IST" finished-at="2021-06-15T18:48:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobile2 -->
+      </class> <!-- AutomationPractise2.AppiumTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
